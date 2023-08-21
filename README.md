@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarekaly266
 - 👀 I’m interested in .revit API..
-- 🌱 I’m currently learning .C3.
+- 🌱 I’m currently learning .C#
 - 💞️ I’m looking to collaborate on .create addin'.
 - 📫 How to reach me .through youtube.
 
